@@ -1,0 +1,1 @@
+export const ttsQueue = 'process_tts';
